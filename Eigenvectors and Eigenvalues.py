@@ -142,10 +142,6 @@ plt.show()
 
 
 
-# In[12]:
-
-
-#CSCI-6390 Only: First Two Eigenvectors and Eigenvalues
 def fun(x):
     x = cov1*x
     a = x[:,0]
